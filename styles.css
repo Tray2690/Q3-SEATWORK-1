@@ -1,0 +1,15 @@
+
+table, th, td {
+	border:20px solid red;
+	border-spacing:10px;
+ 	font-family:<link href="https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap" rel="stylesheet"> ;
+ }
+
+th {
+	color:yellow;
+ 	font-weight:bold ;
+ }
+
+
+
+
